@@ -35,3 +35,4 @@ id,customer_id,event_id,section,price,purchase_date
 34,1,15,Floor,125.00,2025-12-01
 35,11,12,Courtside,122.11,2024-10-04
 36,12,12,LowerBowl,111.22,2024-10-04
+37,11,2,Floor,122.00,2023-10-11
