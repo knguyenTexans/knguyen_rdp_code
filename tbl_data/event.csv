@@ -1,20 +1,20 @@
-id, event_date, name, season_year, opponent
-1, 2023-10-15, Home Game, 2023, Warriors
-2, 2023-10-22, Home Game, 2023, Heat
-3, 2023-11-05, Home Game, 2023, Nets
-4, 2023-11-18, Home Game, 2023, Bucks
-5, 2023-12-03, Home Game, 2023, Suns
-6, 2023-12-20, Home Game, 2023, Celtics
-7, 2024-01-08, Home Game, 2024, Nuggets
-8, 2024-01-21, Home Game, 2024, 76ers
-9, 2024-02-10, Home Game, 2024, Clippers
-10, 2024-02-25, Home Game, 2024, Mavericks
-11, 2024-03-15, Home Game, 2024, Thunder
-12, 2024-10-20, Home Game, 2024, Knicks
-13, 2024-11-03, Home Game, 2024, Celtics
-14, 2024-11-17, Home Game, 2024, Warriors
-15, 2024-12-01, Home Game, 2024, Lakers
-16, 2024-12-15, Home Game, 2024, Heat
-17, 2025-01-05, Home Game, 2025, Bucks
-18, 2025-01-19, Home Game, 2025, Nets
-19, 2025-02-02, Home Game, 2025, Suns
+id,event_date,name,season_year,opponent
+1,2023-10-15,HomeGame,2023,Warriors
+2,2023-10-22,HomeGame,2023,Heat
+3,2023-11-05,HomeGame,2023,Nets
+4,2023-11-18,HomeGame,2023,Bucks
+5,2023-12-03,HomeGame,2023,Suns
+6,2023-12-20,HomeGame,2023,Celtics
+7,2024-01-08,HomeGame,2024,Nuggets
+8,2024-01-21,HomeGame,2024,76ers
+9,2024-02-10,HomeGame,2024,Clippers
+10,2024-02-25,HomeGame,2024,Mavericks
+11,2024-03-15,HomeGame,2024,Thunder
+12,2024-10-20,HomeGame,2024,Knicks
+13,2024-11-03,HomeGame,2024,Celtics
+14,2024-11-17,HomeGame,2024,Warriors
+15,2024-12-01,HomeGame,2024,Lakers
+16,2024-12-15,HomeGame,2024,Heat
+17,2025-01-05,HomeGame,2025,Bucks
+18,2025-01-19,HomeGame,2025,Nets
+19,2025-02-02,HomeGame,2025,Suns
