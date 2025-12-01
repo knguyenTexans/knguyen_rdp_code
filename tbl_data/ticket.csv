@@ -1,4 +1,4 @@
-customer_id,event_id,section,price,purchase_date
+id,customer_id,event_id,section,price,purchase_date
 1,1,1,Floor,120.00,2023-09-15
 2,1,2,Floor,120.00,2023-10-01
 3,2,1,LowerBowl,85.00,2023-09-20
